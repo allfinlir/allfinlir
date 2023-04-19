@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allfinlir
-  Currently trying to leard how to code.
+  Currently learning SwiftUI for iOS development.
   
 - 👀 I’m interested in ...
 Sports, travel and life in general.
@@ -11,6 +11,7 @@ Swift and SwiftUI.
 Anything interesting.
 
 - 📫 How to reach me ...
+You can reach me at learningswiftui1@gmail.com 
 
 <!---
 allfinlir/allfinlir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
